@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = ''
 languageCode = 'en-us'
 title = "ACCC-GT-CCF Linktree"
 theme = "LucentLink-Hugo"
@@ -10,3 +10,7 @@ minVersion = "0.115.0"
 
 [outputs]
   home = ["HTML"]
+
+[taxonomies]
+  tag = ""
+  category = ""
