@@ -1,11 +1,11 @@
 :root {
-  --bg-color: #1a1a2e;
+  --bg-color: #1a1a19;
   --text-color: rgba(255, 255, 255, 0.85);
   --icon-color: rgba(255, 255, 255, 0.7);
 }
 
 body {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   background-color: var(--bg-color);
   color: var(--text-color);
   min-height: 100vh;
@@ -65,18 +65,22 @@ body {
 .circle {
   position: absolute;
   border-radius: 50%;
-  background: radial-gradient(circle, rgba(255,255,255,0.1) 0%, rgba(255,255,255,0) 70%);
+  background: radial-gradient(
+    circle,
+    rgba(240, 202, 163, 0.15) 20%,
+    rgba(192, 96, 161, 0.05) 70%
+  );
   animation: float 15s infinite linear;
 }
 
 @keyframes float {
   0% {
-      transform: translateY(0) rotate(0deg);
-      opacity: 1;
+    transform: translateY(0) rotate(0deg);
+    opacity: 1;
   }
   100% {
-      transform: translateY(-1000px) rotate(720deg);
-      opacity: 0;
+    transform: translateY(-1000px) rotate(720deg);
+    opacity: 0;
   }
 }
 
@@ -130,9 +134,14 @@ body {
 
   /* Gradient border using a mask trick */
   border: 3px solid transparent;
-  background: linear-gradient(90deg, rgba(255, 255, 255, 0.8), rgba(209, 77, 77, 0.224), rgba(255, 255, 255, 0.8));
-  -webkit-mask: 
-    linear-gradient(#fff 0 0) content-box, 
+  background: linear-gradient(
+    90deg,
+    rgba(255, 255, 255, 0.8),
+    rgba(209, 77, 77, 0.224),
+    rgba(255, 255, 255, 0.8)
+  );
+  -webkit-mask:
+    linear-gradient(#fff 0 0) content-box,
     linear-gradient(#fff 0 0);
   -webkit-mask-composite: xor;
   mask-composite: exclude;
@@ -160,3 +169,4 @@ body {
     clip-path: inset(0 100% 0 0); /* back to hidden */
   }
 }
+
