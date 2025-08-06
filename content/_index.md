@@ -22,14 +22,14 @@ description: "Chinese Christian Fellowship @ GT"
 
 # Link cards
 links:
-  - href: "https://instagram.com/chinese_christianfellowship_gt/"
+  - href: "https://forms.gle/eSHeQy4ajGa1bK6D7"
     icon: "fas fa-file-pen"
-    title: "第一次迎新報名表（Google Form）"
+    title: "08/22 迎新報名表（Google Form）"
     description: "主題：歡迎來到 GT！（團康與教授短講）"
     color: "text-orange-300"
-  - href: "https://instagram.com/chinese_christianfellowship_gt/"
+  - href: "https://forms.gle/wD5j3sj319UGiDhr7"
     icon: "fas fa-file-pen"
-    title: "第二次迎新報名表（Google Form）"
+    title: "08/29 迎新報名表（Google Form）"
     description: "主題：行李箱裝不下的東西（教授講座）"
     color: "text-orange-300"
   - href: "https://instagram.com/chinese_christianfellowship_gt/"
