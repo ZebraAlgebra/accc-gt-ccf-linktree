@@ -1,6 +1,6 @@
-baseURL = ''
+baseURL = 'https://accc-gt-ccf-linktree.netlify.app/'
 languageCode = 'en-us'
-title = "ACCC-GT-CCF Linktree"
+title = "校園之家 - Linktree"
 theme = "LucentLink-Hugo"
 minVersion = "0.115.0"
 
