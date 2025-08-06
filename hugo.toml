@@ -1,0 +1,12 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = "ACCC-GT-CCF Linktree"
+theme = "LucentLink-Hugo"
+minVersion = "0.115.0"
+
+[params]
+  description     = "Linktree for accc-gt-ccf"
+  googleAnalytics = ""    # your GA ID, if any
+
+[outputs]
+  home = ["HTML"]
