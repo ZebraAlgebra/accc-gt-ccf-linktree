@@ -35,7 +35,7 @@ links:
   - href: "https://instagram.com/chinese_christianfellowship_gt/"
     icon: "fab fa-instagram"
     title: "校園之家 IG 帳號"
-    description: "追蹤以獲取每週聚會通知、團契靈修進度！"
+    description: "追蹤以獲取週聚會通知、團契靈修進度！"
     color: "text-pink-300"
   - href: "https://docs.google.com/spreadsheets/d/1-2WLLqxkkrXHkKTmjWf7m58sFvTVKyxrTEToFYsoOvw/edit?usp=sharing"
     icon: "fas fa-calendar-days"
@@ -66,9 +66,13 @@ about:
   title: "歡迎參加每週五聚會！"
   sections:
     - heading: "關於我們"
-      content: "我們是 ACCC（亞特蘭大華人基督教會）在 Georgia Tech 成立的校園團契，也是亞特蘭大城中地區的校園福音事工。"
+      content: "我們是 ACCC（亞特蘭大華人基督教會）在 Georgia Tech 成立的校園團契，也是亞特蘭大中城地區校園福音事工"
+    - heading: "聚會時間"
+      content: "每週五 1830-2100"
     - heading: "聚會內容"
-      content: "查經（2025秋～2026春：路加福音+使徒行傳）、專題聚會（每週一次）、節日慶祝"
+      content: "晚餐、詩歌、主題聚會（見聚會主題）、近況分享代禱"
+    - heading: "聚會主題"
+      content: "查經（25秋～26春：路加福音＋使徒行傳）、專題聚會（每月一次）、節日慶祝、迎新、電影欣賞"
 
 messaging:
   title: "聯繫我們～"
