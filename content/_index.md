@@ -78,7 +78,7 @@ other:
     - heading: ""
       content: "我們是 ACCC（亞特蘭大華人基督教會）在 Georgia Tech 成立的團契，也是亞特蘭大中城區的校園福音事工"
 
-messaging:
+contact:
   title: "聯繫我們～"
   items:
     - icon: "fas fa-envelope"
