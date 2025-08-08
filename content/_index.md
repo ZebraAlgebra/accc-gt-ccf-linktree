@@ -65,14 +65,13 @@ links:
 about:
   title: "歡迎參加每週五聚會！"
   sections:
-    - heading: "關於我們"
-      content: "我們是 ACCC（亞特蘭大華人基督教會）在 Georgia Tech 成立的校園團契，也是亞特蘭大中城地區校園福音事工"
-    - heading: "聚會時間"
-      content: "每週五 1830-2100"
+    - heading: "時間：1830-2100"
     - heading: "聚會內容"
       content: "晚餐、詩歌、主題聚會（見聚會主題）、近況分享代禱"
     - heading: "聚會主題"
-      content: "查經（25秋～26春：路加福音＋使徒行傳）、專題聚會（每月一次）、節日慶祝、迎新、電影欣賞"
+      content: "查經（25秋～26春：路加福音＋使徒行傳）、專題聚會（每月一次）、節日慶祝、期初迎新、期末電影欣賞"
+    - heading: "關於我們"
+      content: "我們是 ACCC（亞特蘭大華人基督教會）在 Georgia Tech 成立的團契，也是亞特蘭大中城區的校園福音事工"
 
 messaging:
   title: "聯繫我們～"
