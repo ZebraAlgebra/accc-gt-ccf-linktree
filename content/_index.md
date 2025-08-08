@@ -63,24 +63,32 @@ links:
 #   iframe: '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6zcsSLDrLiCpX8KDzNiIhS?utm_source=generator" width="100%" height="152" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
 
 about:
-  title: "歡迎參加每週五聚會！"
+  title: "歡迎與我們一起聚會～"
   sections:
-    - heading: "時間：1830-2100"
-    - heading: "聚會內容"
-      content: "晚餐、詩歌、主題聚會（見聚會主題）、近況分享代禱"
-    - heading: "聚會主題"
-      content: "查經（25秋～26春：路加福音＋使徒行傳）、專題聚會（每月一次）、節日慶祝、期初迎新、期末電影欣賞"
-    - heading: "關於我們"
+    - heading: ""
+      content: "時間：每週五 1830-2100"
+    - heading: ""
+      content: "內容：晚餐、詩歌、主題聚會、近況分享代禱"
+    - heading: ""
+      content: "聚會主題：查經（25秋～26春：路加福音＋使徒行傳）、專題聚會、節日慶祝、期初迎新、期末電影欣賞"
+
+other:
+  title: "關於我們"
+  sections:
+    - heading: ""
       content: "我們是 ACCC（亞特蘭大華人基督教會）在 Georgia Tech 成立的團契，也是亞特蘭大中城區的校園福音事工"
 
 messaging:
   title: "聯繫我們～"
   items:
+    - icon: "fas fa-envelope"
+      color: "text-blue-300"
+      text: "Email: accc.gt.ccf.social@gmail.com"
     - icon: "fas fa-message"
       color: "text-green-300"
       text: "WeChat ID: tritoneSubstitution"
-    - icon: "fas fa-envelope"
-      color: "text-cyan-300"
-      text: "Email: accc.gt.ccf.social@gmail.com"
+    - icon: "fab fa-instagram"
+      color: "text-pink-300"
+      text: "IG: chinese_christianfellowship_gt"
 
 ---
