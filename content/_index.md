@@ -37,7 +37,7 @@ links:
     title: "校園之家 IG 帳號"
     description: "追蹤以獲取週聚會通知、團契靈修進度！"
     color: "text-pink-300"
-  - href: "https://docs.google.com/spreadsheets/d/1-2WLLqxkkrXHkKTmjWf7m58sFvTVKyxrTEToFYsoOvw/edit?usp=sharing"
+  - href: "https://docs.google.com/spreadsheets/d/1Vhh5fPaaaIvaRQgIh7GuY2J2XHiffjlL9jfhY8T7p7M/edit?usp=sharing"
     icon: "fas fa-calendar-days"
     title: "每週五聚會安排（Google Sheets）"
     description: "聚會時間：每週五 1830-2100"
