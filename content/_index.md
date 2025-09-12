@@ -22,16 +22,6 @@ description: "Chinese Christian Fellowship @ GT"
 
 # Link cards
 links:
-  - href: "https://forms.gle/eSHeQy4ajGa1bK6D7"
-    icon: "fas fa-file-pen"
-    title: "08/22 迎新報名表（Google Form）"
-    description: "主題：歡迎來到 GT！（團康與教授短講）"
-    color: "text-orange-300"
-  - href: "https://forms.gle/wD5j3sj319UGiDhr7"
-    icon: "fas fa-file-pen"
-    title: "08/29 迎新報名表（Google Form）"
-    description: "主題：行李箱裝不下的東西（教授講座）"
-    color: "text-orange-300"
   - href: "https://instagram.com/chinese_christianfellowship_gt/"
     icon: "fab fa-instagram"
     title: "校園之家 IG 帳號"
@@ -57,6 +47,16 @@ links:
     title: "學校官方網站 （GT Engage）"
     description: ""
     color: "text-purple-300"
+  - href: "https://forms.gle/eSHeQy4ajGa1bK6D7"
+    icon: "fas fa-file-pen"
+    title: "（截止）08/22 迎新報名表（Google Form）"
+    description: "主題：歡迎來到 GT！（團康與教授短講）"
+    color: "text-orange-300"
+  - href: "https://forms.gle/wD5j3sj319UGiDhr7"
+    icon: "fas fa-file-pen"
+    title: "（截止）08/29 迎新報名表（Google Form）"
+    description: "主題：行李箱裝不下的東西（教授講座）"
+    color: "text-orange-300"
 
 # Spotify playlist embed. You can add embed by rigth clicking on your spotify playlist -> Share -> Copy embed. After copying the embed, replace it with the iframe below.
 # spotifyPlaylist:
