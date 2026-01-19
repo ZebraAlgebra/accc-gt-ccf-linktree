@@ -47,16 +47,16 @@ links:
     title: "學校官方網站 （GT Engage）"
     description: ""
     color: "text-purple-300"
-  - href: "https://forms.gle/eSHeQy4ajGa1bK6D7"
-    icon: "fas fa-file-pen"
-    title: "（截止）08/22 迎新報名表（Google Form）"
-    description: "主題：歡迎來到 GT！（團康與教授短講）"
-    color: "text-orange-300"
-  - href: "https://forms.gle/wD5j3sj319UGiDhr7"
-    icon: "fas fa-file-pen"
-    title: "（截止）08/29 迎新報名表（Google Form）"
-    description: "主題：行李箱裝不下的東西（教授講座）"
-    color: "text-orange-300"
+  # - href: "https://forms.gle/eSHeQy4ajGa1bK6D7"
+  #   icon: "fas fa-file-pen"
+  #   title: "（截止）08/22 迎新報名表（Google Form）"
+  #   description: "主題：歡迎來到 GT！（團康與教授短講）"
+  #   color: "text-orange-300"
+  # - href: "https://forms.gle/wD5j3sj319UGiDhr7"
+  #   icon: "fas fa-file-pen"
+  #   title: "（截止）08/29 迎新報名表（Google Form）"
+  #   description: "主題：行李箱裝不下的東西（教授講座）"
+  #   color: "text-orange-300"
 
 # Spotify playlist embed. You can add embed by rigth clicking on your spotify playlist -> Share -> Copy embed. After copying the embed, replace it with the iframe below.
 # spotifyPlaylist:
@@ -70,13 +70,13 @@ about:
     - heading: ""
       content: "內容：晚餐、詩歌、主題聚會、近況分享代禱"
     - heading: ""
-      content: "聚會主題：查經（25秋～26春：路加福音＋使徒行傳）、專題聚會、節日慶祝、期初迎新、期末電影欣賞"
+      content: "聚會主題：查經（26春～26秋：路加福音＋使徒行傳）、專題聚會、節日慶祝、期初迎新、期末電影欣賞"
 
 other:
   title: "關於我們"
   sections:
     - heading: ""
-      content: "我們是 ACCC（亞特蘭大華人基督教會）在 Georgia Tech 成立的團契，也是亞特蘭大中城區的校園福音事工"
+      content: "我們是 ACCC（亞特蘭大華人基督教會）在 Georgia Tech 成立的團契，也是亞特蘭大中城區的校園福音事工，期待在關係中引人認識神、在祂的話語中成長成熟。"
 
 contact:
   title: "聯繫我們～"
